@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "w1ZcnvUWe3gJ2bonnpSN_",
+      "email": "msh@55",
+      "password": "$2a$08$txyuRMuefiNkcxTyGkmkCunMTRKwj7.zGF3G0PpVjbUAu3oQLmsvm"
+    },
+    {
+      "id": "3ticrym5ZoCzXE7pA0ifL",
+      "email": "msha@34",
+      "password": "$2a$08$BxwdO1bsJownGGlvspQvduxi9YXQrESFPaXZxetF6qm237DMg8xtq"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "n9qtj1eW-NiffKiZYy66Y",
+      "userId": "w1ZcnvUWe3gJ2bonnpSN_",
+      "amount": 20000,
+      "description": "food",
+      "date": "2025-11-24T10:58:25.891Z",
+      "category": "Bills"
+    },
+    {
+      "id": "aCGUL3LKEwCVf2ZpzL2yx",
+      "userId": "3ticrym5ZoCzXE7pA0ifL",
+      "amount": 2000,
+      "description": "food",
+      "date": "2025-11-24T11:18:54.351Z",
+      "category": "Misc"
+    },
+    {
+      "id": "BqCYVw1qE-BSoDPreM9gr",
+      "userId": "3ticrym5ZoCzXE7pA0ifL",
+      "amount": 4000,
+      "description": "tshirt",
+      "date": "2025-11-24T11:19:05.288Z",
+      "category": "Misc"
+    },
+    {
+      "id": "4I5A99FgTm8GyII7qql6M",
+      "userId": "3ticrym5ZoCzXE7pA0ifL",
+      "amount": 30000,
+      "description": "travel",
+      "date": "2025-11-24T11:19:18.473Z",
+      "category": "Rent"
+    },
+    {
+      "id": "ivnIQokfxyEhk0X3poHQb",
+      "userId": "3ticrym5ZoCzXE7pA0ifL",
+      "amount": 10000,
+      "description": "makeup",
+      "date": "2025-11-24T11:19:34.123Z",
+      "category": "Bills"
+    },
+    {
+      "id": "igeVHDBuEoBok49ndciht",
+      "userId": "3ticrym5ZoCzXE7pA0ifL",
+      "amount": 9000,
+      "description": "laptop",
+      "date": "2025-11-24T11:24:13.919Z",
+      "category": "Bills"
+    }
+  ]
+}
